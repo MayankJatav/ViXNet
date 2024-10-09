@@ -2,11 +2,11 @@
 
 This repository is an unofficial implementiation for the ViXNet Research Paper. The model architecture is a two channel architecture. It takes the input as the deepfake image and the same image is passed to both the channels. The model tries to classify the image as a deepfake image or not.
 
-The model consists of four modules:
-  A. Patch-wise self-attention module
-  B. Global-self attention module
-  C. Global image feature extraction module
-  D. Classification module
+The model consists of four modules:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;A. Patch-wise self-attention module<br>
+&nbsp;&nbsp;&nbsp;&nbsp;B. Global-self attention module<br>
+&nbsp;&nbsp;&nbsp;&nbsp;C. Global image feature extraction module<br>
+&nbsp;&nbsp;&nbsp;&nbsp;D. Classification module<br>
 
 ![image](https://github.com/user-attachments/assets/1b860170-ed32-4daf-bae9-3a147c644f4f)
 
