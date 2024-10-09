@@ -1,6 +1,7 @@
 ## ViXNet: Vision Transformer with Xception Network for deepfake detection
 
-This repository is an unofficial implementiation for the ViXNet Research Paper. The model architecture is a two channel architecture. It takes the input as the deepfake image and the same image is passed to both the channels. The model tries to classify the image as a deepfake image or not.
+This repository is an unofficial implementiation for the ViXNet Research Paper. The model architecture is a two channel architecture. It takes the input as the deepfake image and the same image is passed to both the channels. The model tries to classify the image as a deepfake image or not.<br>
+https://www.sciencedirect.com/science/article/pii/S0957417422015251
 
 The model consists of four modules:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;A. Patch-wise self-attention module<br>
